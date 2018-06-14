@@ -58,6 +58,7 @@ button {
     background-color: #FF1A41;
     color: #fff;
     border-radius: 10px;
+    margin-left: 12px;
 }
 
 .contactForm > input[type='email'] {
